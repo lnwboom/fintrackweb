@@ -21,11 +21,11 @@
                 กันเลย!
             </h1>
             <p class="text-xl text-slate-600 mb-8 leading-relaxed">
-                จัดการการเงินง่าย ๆ ด้วยแอป เหมียวจด<br>
+                จัดการการเงินง่าย ๆ ด้วยแอป Fintrack<br>
                 เริ่มต้นการออมเงินอย่างมีประสิทธิภาพวันนี้
             </p>
             <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-             <!--  <button
+                <!--  <button
                     class="w-full sm:w-auto bg-gradient-to-r from-sky-400 to-sky-300 hover:from-sky-300 hover:to-sky-200 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 transform hover:-translate-y-0.5">
                     ลงชื่อเข้าใช้
                 </button>
